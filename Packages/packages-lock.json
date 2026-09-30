@@ -337,6 +337,14 @@
       },
       "url": "https://packages.unity.com"
     },
+    "wu.yize.gsplat": {
+      "version": "file:U:/SPLATS/APPS/gsplat-unity-main",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.mathematics": "1.3.2"
+      }
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
